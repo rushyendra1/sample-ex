@@ -1,4 +1,0 @@
-
-filezilla to heroku upload the files
-check the password error messages
-
